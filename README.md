@@ -28,3 +28,18 @@ You can install the required libraries using the following command:
 
 ```bash
 pip install numpy pandas scikit-learn tensorflow matplotlib
+
+## Data Preprocessing
+The dataset contains missing values represented by ?. These values are handled by replacing them with NaN and then dropping any rows with NaN values. The features are then standardized using StandardScaler
+
+## Model Training and Evaluation
+
+Models Used:
+
+- Bayes Classifier
+- Decision Tree
+- K-Nearest Neighbor (KNN)
+- Logistic Regression
+- Neural Network
+- Random forest
+- Support Vector Machine (SVM)
