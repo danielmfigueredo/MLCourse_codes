@@ -33,7 +33,7 @@ pip install numpy pandas scikit-learn tensorflow matplotlib
 1. Clone the repository:
    
 ```bash
-clone https://github.com/danielmfigueredo/MLCourse_codes.git
+git clone https://github.com/danielmfigueredo/MLCourse_codes.git
 cd MLCourse_codes
 ```
 
