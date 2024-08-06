@@ -29,6 +29,25 @@ You can install the required libraries using the following command:
 ```bash
 pip install numpy pandas scikit-learn tensorflow matplotlib
 ```
+## Usage
+1. Clone the repository:
+   
+```bash
+clone https://github.com/danielmfigueredo/MLCourse_codes.git
+cd MLCourse_codes
+```
+
+2. Navigate to the notebooks directory:
+
+```bash
+cd algorithms
+```
+
+3. Run the Jupyter Notebook:
+
+```bash
+knn_classifier.ipynb
+```
 
 ## Data Preprocessing
 The dataset contains missing values represented by ?. These values are handled by replacing them with NaN and then dropping any rows with NaN values. The features are then standardized using StandardScaler
