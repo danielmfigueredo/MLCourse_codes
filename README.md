@@ -56,10 +56,10 @@ The dataset contains missing values represented by ?. These values are handled b
 
 Models Used:
 
-- Bayes Classifier
-- Decision Tree
-- K-Nearest Neighbor (KNN)
-- Logistic Regression
-- Neural Network
-- Random forest
-- Support Vector Machine (SVM)
+- Bayes Classifier: 78%
+- Decision Tree: 72%
+- K-Nearest Neighbor (KNN): 81%
+- Logistic Regression: 78%
+- Neural Network: 80%
+- Random forest: 77%
+- Support Vector Machine (SVM): 78%
