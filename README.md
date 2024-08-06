@@ -46,7 +46,7 @@ cd algorithms
 3. Run the Jupyter Notebook:
 
 ```bash
-knn_classifier.ipynb
+jupyter notebook knn_classifier.ipynb
 ```
 
 ## Data Preprocessing
